@@ -34,4 +34,3 @@ K:\我的软件\文件夹目录生成器
 ..GenDir.sln
 ..GenDir.v11.suo
 The file directory is loaded!Press 'Y' to save,press 'N' to exit!
-
