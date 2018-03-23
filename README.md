@@ -1,13 +1,13 @@
 # DirectoryStructure
-输出指定文件夹下面的文件结构。
-输入路径，输出此路径下面的所有子文件夹、文件清单。
-可将此清单以"yyyyMMddHHmmssffff_文件夹目录结构"命名的TXT格式保存在输入路径下面。
-示例：
+输出指定文件夹下面的文件结构。</br>
+输入路径，输出此路径下面的所有子文件夹、文件清单。</br>
+可将此清单以"yyyyMMddHHmmssffff_文件夹目录结构"命名的TXT格式保存在输入路径下面。</br>
+示例：</br>
 `Please enter a path:`
-K:\我的软件\文件夹目录生成器
-    .GenDir
-    ..GenDir
-    ...App.config
+K:\我的软件\文件夹目录生成器</br>
+.GenDir
+..GenDir
+...App.config
 ...bin
 ....Debug
 .....GenDir.exe
