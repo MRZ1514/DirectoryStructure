@@ -3,12 +3,11 @@
 输入路径，输出此路径下面的所有子文件夹、文件清单。
 可将此清单以"yyyyMMddHHmmssffff_文件夹目录结构"命名的TXT格式保存在输入路径下面。
 示例：
-<p>
-Please enter a path:
+`Please enter a path:`
 K:\我的软件\文件夹目录生成器
-.GenDir
-..GenDir
-...App.config
+    .GenDir
+    ..GenDir
+    ...App.config
 ...bin
 ....Debug
 .....GenDir.exe
@@ -34,5 +33,4 @@ K:\我的软件\文件夹目录生成器
 ....AssemblyInfo.cs
 ..GenDir.sln
 ..GenDir.v11.suo
-The file directory is loaded!Press 'Y' to save,press 'N' to exit!
-</p>
+`The file directory is loaded!Press 'Y' to save,press 'N' to exit!`
