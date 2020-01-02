@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 using System.IO;
 namespace GenDir
@@ -9,7 +9,7 @@ namespace GenDir
         static StringBuilder sb = new StringBuilder();
         static void Main(string[] args)
         {
-            //测试E:\公司项目
+            //测试D:\
             Console.WriteLine("Please enter a path:");
             string path = Console.ReadLine();
             if (!string.IsNullOrWhiteSpace(path))
